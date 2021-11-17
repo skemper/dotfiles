@@ -1,0 +1,6 @@
+[user]
+	name = Stephan Kemper
+	email = wskemper@gmail.com
+	signingkey = EF7918EBC0688B96
+[commit]
+	gpgsign = true
